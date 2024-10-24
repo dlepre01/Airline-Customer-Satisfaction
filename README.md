@@ -8,6 +8,9 @@ This project presents an explanatory analysis of airline passenger satisfaction,
 
 The aviation industry today increasingly emphasizes customer experience as a central element for the success of airlines. In a competitive market sector, every company must view passenger satisfaction as a critical indicator of the quality of service offered, as it is a key factor in customer loyalty and brand reputation.
 
+## Goal
+This project aims to provide valuable insights into passenger satisfaction within the aviation industry. By identifying key factors that influence customer ratings, airlines can enhance their services, leading to increased customer loyalty and improved brand reputation.
+
 ## Dataset
 The analysis focuses on a comprehensive dataset containing detailed information on passengers’ in-flight experiences. This dataset comprises variables that reflect different aspects of the passenger journey, such as:
 
@@ -16,7 +19,7 @@ The analysis focuses on a comprehensive dataset containing detailed information 
 - Flight class purchased
 - Customer loyalty status
 
-The dataset uses data collected by a company with a fictitious name, **Invistico**, to protect passenger privacy. It includes customer details and feedback on various flight aspects. 
+The dataset is sourced from Kaggle and can be accessed at the following link: [Airlines Customer Satisfaction Dataset](https://www.kaggle.com/datasets/sjleshrac/airlines-customer-satisfaction). It uses data collected by a company with a fictitious name, **Invistico**, to protect passenger privacy and includes customer details and feedback on various flight aspects.
 
 ## Objectives
 The main objective of this project is to develop predictive models capable of anticipating passenger satisfaction levels. These models will be used to formulate recommendations aimed at improving the overall customer experience.
@@ -28,9 +31,6 @@ The project follows a systematic approach, including:
 3. Model Development: Implementing various machine learning techniques to build predictive models.
 4. Recommendations: Analyzing the results to suggest improvements in customer experience.
 
-## Conclusion
-This project aims to provide valuable insights into passenger satisfaction within the aviation industry. By identifying key factors that influence customer ratings, airlines can enhance their services, leading to increased customer loyalty and improved brand reputation.
 
-## Acknowledgments
-We would like to thank the team behind the **Invistico** dataset for providing valuable data for this analysis.
+
 
