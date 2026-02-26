@@ -31,6 +31,11 @@ The project follows a systematic approach, including:
 3. Model Development: Implementing various machine learning techniques to build predictive models.
 4. Recommendations: Analyzing the results to suggest improvements in customer experience.
 
+## Author
+Daniele Lepre
 
+Alice Anna Maria Brunazzi
+
+Alessandro Della Beffa
 
 
